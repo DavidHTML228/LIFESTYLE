@@ -1,0 +1,16 @@
+body {
+    background:yellowgreen;
+}
+.container{
+    max-width: 986px;
+    margin: 0 auto
+}
+header .container{
+max: widght 560px;
+}
+header .container .container{
+    margin-top: 67px;
+    margin-bottom: 96px;
+    display:flex;
+    justify-content: space-between;
+}
